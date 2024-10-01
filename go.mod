@@ -1,6 +1,6 @@
 module github.com/44smkn/aws_ri_exporter
 
-go 1.20
+go 1.23.2
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.21.2
