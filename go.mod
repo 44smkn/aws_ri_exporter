@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/rds v1.56.0
 	github.com/go-kit/log v0.2.1
 	github.com/golang/mock v1.6.0
-	github.com/prometheus/client_golang v1.14.0
+	github.com/prometheus/client_golang v1.21.0
 	github.com/prometheus/common v0.40.0
 	github.com/prometheus/exporter-toolkit v0.8.2
 	github.com/sergi/go-diff v1.3.1
